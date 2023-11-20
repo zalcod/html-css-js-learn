@@ -427,7 +427,7 @@ Sıralı listeler ardışık liste numaraları vermek için kullanılır. Sıral
 
 **Ekran çıktısı:**
 
-!https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/s%C4%B1ra.PNG
+![alt text](https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/s%C4%B1ra.PNG)
 
 şeklinde olur.
 
@@ -443,7 +443,7 @@ Liste başındaki sıralandırmayı rakamdan başka **roma rakamı veya alfabet
 
 **Ekran çıktısı:**
 
-!https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/siralama.png
+![alt text](https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/siralama.png)
 
 ```
 <ol type="A">   <li>Javascript</li>
@@ -455,7 +455,7 @@ Liste başındaki sıralandırmayı rakamdan başka **roma rakamı veya alfabet
 
 **Ekran çıktısı:**
 
-!https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/alfabetik.PNG
+![alt text](https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/alfabetik.PNG)
 
 ## **Sırasız Listeler**
 
@@ -505,7 +505,7 @@ Liste başındaki sıralandırmayı rakamdan başka **roma rakamı veya alfabet
 
 **Ekran çıktısı:**
 
-!https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/kare.PNG
+![alt text](https://github.com/Kodluyoruz/taskforce/raw/main/html/listelerle-calismak/figures/kare.PNG)
 
 ## 8) Emmet İle Daha Hızlı HTML Yapıları Oluşturmak
 
@@ -527,7 +527,7 @@ Emmet web geliştiricilerinin sıklıkla zamandan tasarruf etmek ve daha hızlı
 
 Emmet sayesinde çok daha hızlı bir biçimde `!` + Tab kullanarak bu yapıyı oluşturabilirsiniz. Bunu tek tek yazmaktansa iki tuşa basarak yapmak çok güzel değil mi?
 
-https://camo.githubusercontent.com/2b6b8cc6da640800e1cb752bce4fbb8ec4d96ec3988d09ac9a7c5a736f35b49e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3836352f302a74494c593447596a427670466f355a782e676966
+![alt text](https://camo.githubusercontent.com/2b6b8cc6da640800e1cb752bce4fbb8ec4d96ec3988d09ac9a7c5a736f35b49e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3836352f302a74494c593447596a427670466f355a782e676966)
 
 Anlayacağınız üzere Emmet bazı kısa yollarla basit bir biçimde HTML ve CSS kodu yazmamıza yardımcı olur. Aynı kodu tekrar tekrar yazmanızı engellerken üretkenliğinizi de arttırmış olur. Emmet neredeyse tüm text editörlerinde mevcuttur, bu yüzden onu yüklemenize gerek yoktur. Ama herhangi bir nedenden IDE’nizde mevcut değilse [bu sayfadan](https://emmet.io/download/) yükleyebilirsiniz.
 
