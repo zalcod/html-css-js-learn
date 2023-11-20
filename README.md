@@ -395,7 +395,7 @@ HTML’de en önemli kısım başlıklardır. `<h1>` Etiketi yazıların başl
 
 ### **HTML Görünümü**
 
-!https://user-images.githubusercontent.com/74019386/103456246-57e91380-4d05-11eb-8bc3-0c6566057f58.PNG
+https://user-images.githubusercontent.com/74019386/103456246-57e91380-4d05-11eb-8bc3-0c6566057f58.PNG
 
 Başlıklar HTML Dökümanlar’da büyük önem arz eder. Arama motorları, web sayfalarınızın yapısını ve içeriğini indekslemek için başlıkları kullanır. Kullanıcılar genellikle başlıkları ile bir sayfayı gözden kaçırırlar. Belge yapısını göstermek için başlıkları kullanmak önemlidir. `<h1>`Başlıklar ana başlıklar için kullanılmalı, ardından başlıklar takip edilmeli `<h3>`, biraz daha az önemli `<h4>`vb.
 
