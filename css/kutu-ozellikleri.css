@@ -1,0 +1,74 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.left-bar {
+    width: 200px;
+    float: left;
+
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+
+
+.clear {
+    clear: both;
+}
+
+.gradient {
+    background: linear-gradient(90deg, rgba(45, 156, 219, .6), rgba(155, 81, 224, .6));
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    /* margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    float: left;
+}
+
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    background-color: darkkhaki;
+    margin-right: 3%;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-green {
+    background-color: green;
+}

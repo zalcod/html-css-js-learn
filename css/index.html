@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* 
+        Internal CSS -> HTML etiketlerinin içerisinde <style> etiketi ile yazılır.
+         */
+        h1 {
+            color: crimson;
+            font-size: 32px;
+        }
+
+        h2 {
+            color: green;
+            font-size: 28px;
+        }
+
+        p {
+            color: cyan;
+            /* Inline içerisindeki style dikkate alındığından. Cyan rengini
+            Inline içinde renk belirtilen bir paragrafta göremedik. */
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 
+        Inline CSS -> Etiketlerin içerisinde style="" ile yazılır.
+        Internal CSS -> HEAD içerisinde <style> etiketi ile yazılır.
+        External CSS -> HTML etiketlerinin dışında .css uzantılı dosyada yazılır.
+            - Bir kere yazılır, her yerde kullanılır.
+            - Kod tekrarını önler.
+            - Bakım kolaylığı sağlar.
+            - Kod okunabilirliğini arttırır.
+            - link rel="stylesheet" href="style.css" ile bağlantı kurulur.
+            - <link rel="stylesheet" href="style.css"> etiketi HEAD içerisinde yazılır.
+     -->
+
+    <!-- <h1 style="color: crimson; font-size: 32px; "> CSS Deneme </h1>  //Inline  -->
+    <!--  <h2 style="color: green; font-size: 28px; "> CSS Deneme </h2>  //Inline -->
+    <h1>
+        CSS Deneme
+    </h1>
+    <h2 class="fs-color">
+        Hello Lo Dunya
+    </h2>
+
+    <p style="color: blue; font-size: 24px; ">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, illum hic unde, ducimus accusantium ad
+        eligendi modi alias similique, tempora expedita ipsum qui harum. Cumque nihil molestiae sunt molestias amet.
+    </p>
+
+    <h3>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, illum hic unde, ducimus accusantium ad
+        eligendi modi alias similique, tempora expedita ipsum qui harum. Cumque nihil molestiae sunt molestias amet.
+    </h3>
+
+    <ul>
+        <li>Lorem, ipsum dolor.</li>
+        <li>Laudantium, magni dolores.</li>
+        <li>Veritatis, nemo laboriosam.</li>
+    </ul>
+
+</body>
+
+</html>

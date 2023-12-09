@@ -1,0 +1,54 @@
+/* 
+    CSS Selectors
+*/
+
+/* First Child */
+.li:first-child {
+    color: goldenrod;
+}
+
+/* Last Child */
+.li:last-child {
+    color: aqua;
+}
+
+/* Nth Child */
+.li:nth-child(2) {
+    color: blueviolet;
+}
+
+/* Nth Child Odd */
+.li:nth-child(odd) {
+    color: brown;
+}
+
+/* Nth Child Even */
+.li:nth-child(even) {
+    color: darkcyan;
+}
+
+/* Nth Child of xn+y */
+.li:nth-child(3n+1) {
+    color: darkgoldenrod;
+}
+
+/* Descendant Selector */
+.color-blue.fw-normal {
+    color: blue;
+    font-weight: normal;
+}
+
+/* Child Selector */
+.color-red .fw-initial {
+    color: red;
+    font-weight: initial;
+}
+
+/* Hover */
+color-green {
+    color: green;
+}
+
+a.test:hover {
+    color: green;
+}
